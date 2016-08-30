@@ -1,38 +1,36 @@
-Hello Hacker, I am Bhushan Patil and this is first introduction + some tips video. so why are you waiting for let's Start 
-to learn hacking.
+Hey Camper, I am Bhushan Patil and this is an introduction and some tips about this series on Ethical Hacking. So why are you waiting for let's Start 
 
 ### What is Ethical Hacking ?
-    So, Ethical Hacking means to penetrate a computer system or network with some Ethicks 
-    those type of hacker called as Ethical Hacker. so what are thus ethics you need to follow 
-    for being a ethical hacker is mention as follows:
-        1. You respect the individual's or company's privacy
-        2. You close out your work, not leaving anything open for you 
-           or someone else to exploit at a later time
-        3. Just give acknowledge to the Developer or Hardware Manufacture About there Security Bug 
-        
+So, Ethical Hacking means to penetrate a computer system or network with some Ethics 
+You need to follow these:
+    1. You respect the individual's or company's privacy
+    2. You close out your work, not leaving anything open for you 
+       or someone else to exploit at a later time
+    3. Just give acknowledge to the Developer or Hardware Manufacture about their Security Bug 
+    
 ### What are the opportunities as a Ethical hacker ?
-    Hm, There are lot's of opportunities as a Ethical Hacker because in Digital World 
-    Managing and Securing Data is the main objective so as a Ethical Hacker you have 
-    a big Opportunities in ITsec Field 
+There are lots of opportunities as a Ethical Hacker because in the Digital World
+Managing and Securing Data is one of the main objectives so as a Ethical Hacker
 
 ### Types or Categories of hacker's
-    Basically there are Three categories of hacker's that is => "White Hat", "Black Hat" and "Grey Hat"
-    those categories of hackers based on their behaviors.
+Basically there are Three categories of hacker's that is => "White Hat", "Black Hat" and "Grey Hat"
+those categories of hackers based on their behaviors.
     
-    1.White Hat Hacker : These type of Hacker called as "Ethical Hacker". Those type of hackers 
-    experts in compromising computer security systems who use their abilities for good, ethical, 
-    and legal purposes.
+1.White Hat Hacker:White Hat Hacker: These type of hackers are often known as "Ethical Hackers". Those type of hackers 
+experts in compromising computer security systems who use their abilities for good, ethical, 
+and legal purposes.
     
-    2.Black Hat Hacker : These type of hacker mainly popular on Media. they violate computer security 
-    for personal gain (such as stealing credit card numbers or harvesting personal data for sale to 
-    identity thieves)
+2.Black Hat Hacker: These type of hackers mainly popular on Media. They violate computer security 
+for personal gain (such as stealing credit card numbers or harvesting personal data for sale to 
+identity thieves)
     
-    3.Grey Hat Hacker  : These type of hacker test the system without the permission of Owner and after 
-    testing they inform the Owner about the system flaw for there personal gain 
+3.Grey Hat Hacker: These type of hacker test the system without the permission of Owner and after 
+testing they inform the Owner about the system flaw for there personal gain 
     
 ### Important Weapon (Tools) to be need for Hacking
-    Kali Linux : Operating System design for Hacker's and Pentester it has a bunch of tools to play :)
-    Link to Download :https://www.kali.org/downloads/
+Kali Linux: Operating System design for Hacker's and Pentester it has a bunch of tools to play :)
+Link to Download :[Kali Linux](https://www.kali.org)
     
-    Note : You Can also Go with other linux flavours develop for Hackings Like Bugtraq, arch and etc
+Note: There also other linux flavours such as Bugtraq, Arch etc.
+
 
