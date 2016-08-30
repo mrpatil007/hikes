@@ -19,8 +19,20 @@ to learn hacking.
     Basically there are Three categories of hacker's that is => "White Hat", "Black Hat" and "Grey Hat"
     those categories of hackers based on their behaviors.
     
-    1. **White Hat Hacker :** These type of Hacker called as "Ethical Hacker". Those type of hackers 
-    experts in compromising computer security systems who use their abilities for good, ethical, and legal purposes.
+    1.White Hat Hacker : These type of Hacker called as "Ethical Hacker". Those type of hackers 
+    experts in compromising computer security systems who use their abilities for good, ethical, 
+    and legal purposes.
     
-    2. **Black Hat Hacker :** These type of hacker mainly popular on Media. they violate computer security 
-    for personal gain (such as stealing credit card numbers or harvesting personal data for sale to identity thieves)
+    2.Black Hat Hacker : These type of hacker mainly popular on Media. they violate computer security 
+    for personal gain (such as stealing credit card numbers or harvesting personal data for sale to 
+    identity thieves)
+    
+    3.Grey Hat Hacker  : These type of hacker test the system without the permission of Owner and after 
+    testing they inform the Owner about the system flaw for there personal gain 
+    
+### Important Weapon (Tools) to be need for Hacking
+    Kali Linux : Operating System design for Hacker's and Pentester it has a bunch of tools to play :)
+    Link to Download :https://www.kali.org/downloads/
+    
+    
+
