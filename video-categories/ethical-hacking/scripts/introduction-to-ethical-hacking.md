@@ -34,5 +34,5 @@ to learn hacking.
     Kali Linux : Operating System design for Hacker's and Pentester it has a bunch of tools to play :)
     Link to Download :https://www.kali.org/downloads/
     
-    
+    Note : You Can also Go with other linux flavours develop for Hackings Like Bugtraq, arch and etc
 
