@@ -1,5 +1,6 @@
 ![](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
 
+
 [![Throughput Graph](https://graphs.waffle.io/FreeCodeCamp/hikes/throughput.svg)](https://waffle.io/FreeCodeCamp/hikes/metrics/throughput)
 
 ## Free Code Camp Video Challenges
